@@ -14,6 +14,7 @@ int price;
 	System.out.println("Name:ANNJISH KUNJUMON");
 	System.out.println("Reg No:SJC22MCA-2009");
 	System.out.println("Date:24-03-2023");
+	System.out.println("Course code:132");
 	
 	product  ob1=new product();
 	product ob2=new product();
