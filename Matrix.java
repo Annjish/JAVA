@@ -3,7 +3,7 @@ public class Matrix
 {
 public static void main(String[] args)
 {
-  System.out.println("Name:ANNJISH KUNJUMON");
+	System.out.println("Name:ANNJISH KUNJUMON");
 	System.out.println("Reg No:SJC22MCA-2009");
 	System.out.println("Date:24-03-2023");
 	System.out.println("Course Name:OBJECT ORIENTED PROGRAMMING LAB");	
